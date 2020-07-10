@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: DVDDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+DVDDaoTest.testAddDVD()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at DVDDaoTest.testAddDVD(DVDDaoTest.java:40)
+
