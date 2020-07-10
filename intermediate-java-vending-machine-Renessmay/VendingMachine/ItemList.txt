@@ -1,0 +1,12 @@
+Fruit Snack::1::0.8
+Cola::0::3
+Snickers::6::1.99
+Cliff Bar::4::2.99
+Ruffles::0::1.99
+Roll-up::8::0.99
+Candy::6::8
+Hot Pockets::8::2.5
+Skittles::0::1.05
+Crackers::6::1.99
+Milky Way::0::1.89
+Doritos::0::7
